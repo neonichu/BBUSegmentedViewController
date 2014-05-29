@@ -1,0 +1,8 @@
+platform :ios, "7.0"
+
+target "BBUSegmemtedViewExample" do
+
+pod 'BBUSegmentedViewController', :path => '../'
+
+end
+
