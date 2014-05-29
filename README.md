@@ -5,6 +5,8 @@
 
 Switch between child view-controllers using a segmented control at the top.
 
+![](animated.gif)
+
 ## Usage
 
 To run the example project; clone the repo, and run `pod install` from the Example directory first.
