@@ -1,5 +1,6 @@
 # BBUSegmentedViewController
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![Version](http://cocoapod-badges.herokuapp.com/v/BBUSegmentedViewController/badge.png)](http://cocoadocs.org/docsets/BBUSegmentedViewController)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/BBUSegmentedViewController/badge.png)](http://cocoadocs.org/docsets/BBUSegmentedViewController)
 
